@@ -15,11 +15,10 @@ While ICM appears to be sprinting ahead, it is still young and does not offer al
 ## Recommendations
 ICM, with its partnership with Delaware State University, is seemly putting itself in a great position to start offering up their services to a more diverse client base – non-businesses. For example, a school centered debit card, utilizing ICM’s high interest rates, may be a great way to test the waters as they fully expand their operations. The more clients ICM can acquire the more success it will have long term. Giving college students investing accounts early allows long term financial growth which will benefit all parties involved. Providing personal accounts does not seem like a technological stretch for ICM, they would just have to adjust their platform and user interface to better suit the needs for individual’s financials.
 ## Sources
-ICM Website – https://investorcashmanagement.com/
-Investor Cash Management – Crunchbase – https://www.crunchbase.com/organization/investor-cash-management
-Investor Cash Management – PitchBook – https://pitchbook.com/profiles/company/416503-00#overview
-Fintech startup ICM to bring HQ to Wilmington – Delaware Business Times – https://delawarebusinesstimes.com/news/icm-hq-to-wilm/
-Investor Cash Management Closes Series B Fundraising, Announces Visa Partnership, and Expands Board of Directors – Cision PR Newswire – https://www.prnewswire.com/news-releases/investor-cash-management-closes-series-b-fundraising-announces-visa-partnership-and-expands-board-of-directors-301352192.html
-Wealth Management Advisor Statistics and Facts in the US– Zippia – https://www.zippia.com/wealth-management-advisor-jobs/demographics/
-Best Business Bank Accounts – Investopedia – https://www.investopedia.com/best-small-business-bank-accounts-4797849
-
+>* ICM Website – https://investorcashmanagement.com/
+>* Investor Cash Management – Crunchbase – https://www.crunchbase.com/organization/investor-cash-management
+>* Investor Cash Management – PitchBook – https://pitchbook.com/profiles/company/416503-00#overview
+>* Fintech startup ICM to bring HQ to Wilmington – Delaware Business Times – https://delawarebusinesstimes.com/news/icm-hq-to-wilm/
+>* Investor Cash Management Closes Series B Fundraising, Announces Visa Partnership, and Expands Board of Directors – Cision PR Newswire – https://www.prnewswire.com/news-releases/investor-cash-management-closes-series-b-fundraising-announces-visa-partnership-and-expands-board-of-directors-301352192.html
+>* Wealth Management Advisor Statistics and Facts in the US– Zippia – https://www.zippia.com/wealth-management-advisor-jobs/demographics/
+>* Best Business Bank Accounts – Investopedia – https://www.investopedia.com/best-small-business-bank-accounts-4797849
