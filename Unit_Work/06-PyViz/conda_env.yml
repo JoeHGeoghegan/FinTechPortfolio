@@ -1,4 +1,4 @@
-name: dev
+name: pyvizenv
 channels:
   - plotly
   - pyviz
@@ -292,5 +292,4 @@ dependencies:
   - zstd=1.3.7=h5bba6e5_0
   - pip:
     - pandas-datareader==0.7.4
-prefix: /Users/torturedgenius/anaconda/envs/dev
 
